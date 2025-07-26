@@ -21,11 +21,11 @@
 <main>
   <header>
     <img src={logo} alt="Logo" />
-    <h1>ზეტ მოტორსი</h1>
+    <h1>ორმოტორსი</h1>
   </header>
   <div class="container-with-image">
     <div class="subtitle">
-      <h2>ზეტ მოტორსი</h2>
+      <h2>ორმოტორსი</h2>
       <p>თქვენი პიტსტოპი პრემიუმ ავტომომსახურებისთვის</p>
     </div>
     <div class="action-buttons">
