@@ -53,6 +53,7 @@
       }
 
       .service-phone {
+        color: white;
         display: flex;
         gap: 8px;
         padding-bottom: 8px;
